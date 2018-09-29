@@ -129,9 +129,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: 청소년 여가생활에 대한 연구 (여유시간이 삶의 만족도에 미치는 영향에 대하여)
+      - title: 청소년 여가생활에 대한 연구
         link: "#"
-        tagline: "청소년 여가생활에 대한 연구 (여유시간이 삶의 만족도에 미치는 영향에 대하여)"
+        tagline: "여유시간이 삶의 만족도에 미치는 영향에 대하여 연구하였으며 이를 계기로 LaTeX와 R을 경험하게 되었다."
 
       - title: DevStudio
         link: "#"
