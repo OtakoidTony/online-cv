@@ -24,17 +24,17 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Korea
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Japanese
+        level: Normal
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Normal
         
     interests:
-      - item: Climbing
+      - item: Mathematics
         link:
 
       - item: Snowboarding
