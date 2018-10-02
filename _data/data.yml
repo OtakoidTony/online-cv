@@ -42,7 +42,9 @@ sidebar:
 
       - item: Computer Science
         link:
+        
 
+        
 career-profile:
     title: Career Profile
     summary: |
@@ -51,15 +53,11 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 공학수학2
+      university: 한양대학교 (KOCW)
+      time: 2018-2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        KOCW(http://www.kocw.net/) 에서 독학.
 
           - Bullet point
           - Bullet point 
@@ -174,7 +172,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 38%
+        level: 64%
 
       - name: Ruby
         level: 30%
