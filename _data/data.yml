@@ -48,9 +48,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      본래 컴퓨터에만 관심이 있었으나 컴퓨터와 수학의 밀접한 관계가 있음을 알게되어 수학에 대해 흥미를 가지게 되었으며, 수학에 대해 연구하고 탐구하는 것을 좋아함.
-
-      Second paragraph if required.
+      본래 컴퓨터에만 관심이 있었으나 컴퓨터와 수학의 밀접한 관계가 있음을 알게되어 수학에 대해 흥미를 가지게 되었으며,
+      수학에 대해 연구하고 탐구하는 것을 좋아함.
+      
 
 education:
     - degree: 공학수학2
