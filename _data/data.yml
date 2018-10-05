@@ -64,7 +64,7 @@ education:
 
 experiences:
 
-    - role: RPG Maker 동아리
+    - role: RPG Maker 동아리 부장
       time: 2017
       company: 동국대학교사범대학부속고등학교 자율동아리
       details: |
@@ -81,7 +81,7 @@ experiences:
       time: 2013-2015
       company: 전동중학교
       details: |
-        정보도우미 맡음.        
+        정보도우미를 맡음.        
 projects:
     title: Projects
     intro: >
