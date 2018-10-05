@@ -64,19 +64,24 @@ education:
 
 experiences:
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: RPG Maker 동아리
+      time: 2017
+      company: 동국대학교사범대학부속고등학교 자율동아리
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        RPG Maker 동아리를 조직해 부원들과 RPG 게임을 만들었으며,
+        그 과정에서 Ruby, Javascript를 학습하게 됨.
+        
+    - role: 학급정보부장
+      time: 2016-2018
+      company: 동국대학교사범대학부속고등학교
+      details: |
+        정보부장을 맡음.
+        
+    - role: 정보도우미
+      time: 2013-2015
+      company: 전동중학교
+      details: |
+        정보도우미 맡음.        
 projects:
     title: Projects
     intro: >
