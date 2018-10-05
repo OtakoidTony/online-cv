@@ -56,60 +56,17 @@ education:
     - degree: 공학수학2
       university: 한양대학교 (KOCW)
       time: 2018-2019
-      link: "http://www.kocw.net/home/search/kemView.do?kemId=1223416"
       details: |
-        KOCW(http://www.kocw.net/) 에서 독학.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        [KOCW]("http://www.kocw.net/") 에서 독학.
 
           - Bullet point
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
 
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -190,5 +147,27 @@ skills:
       - name: C#
         level: 35%
 
+skills:
+    title: Mathematics
+
+    toolset:
+      - name: 수학 1
+        level: 100%
+
+      - name: 수학 2
+        level: 100%
+
+      - name: 미적분 1
+        level: 100%
+
+      - name: 미적분 2
+        level: 100%
+
+      - name: 확률과 통계
+        level: 90%
+
+      - name: 기하와 벡터
+        level: 100%
+        
 footer: >
     
